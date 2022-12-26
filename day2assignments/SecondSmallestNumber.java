@@ -11,10 +11,9 @@ public class SecondSmallestNumber {
 		System.out.println("Length of the Array is :" + length);
         System.out.println("Second Smallest Number is :" +Number[1]);
 	
-		for (int i=0; i<Number.length; i++) {
+		for (int i=0; i<length; i++) {
 			System.out.println(Number[i]);
 		}
-		
 		
 		}
 
